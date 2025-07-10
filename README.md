@@ -3,6 +3,7 @@ Este projeto é uma landing page moderna e responsiva desenvolvida para promover
 
 
 🚀 Demonstração
+
 👉 Acesse a landing page aqui: [Landing Page - Trilha CSS](https://wesleydsilva.github.io/Landing_Page01_Front-End/)
 
 📁 Estrutura do Projeto
