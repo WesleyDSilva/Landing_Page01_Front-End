@@ -198,6 +198,25 @@ span {
   filter: drop-shadow(3px 2px 0px rgba(51, 168, 219, 1));
 }
 
+#transform-world {
+  max-height: 363px;
+  background-size: cover;
+  background-image: url("img/a2defa0bf6a960e70c3ed8254716011c5f5e6f04.jpg");
+  background-attachment: fixed;
+  border-top: 1px solid #33a8db80;
+  border-bottom: 1px solid #33a8db80;
+  padding: 200px;
+}
+
+#transform-world p {
+  font-weight: 900;
+  font-size: 2.5rem;
+  text-transform: lowercase;
+  max-width: 250px;
+  text-shadow: 3px 2px #33a8db;
+  color: white;
+}
+
 #container {
   position: relative;
   margin-top: 144px;
