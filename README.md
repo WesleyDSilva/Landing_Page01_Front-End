@@ -19,4 +19,4 @@ Este projeto é uma landing page moderna e responsiva desenvolvida para promover
 
   📦 Como usar
 Clone o repositório:
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/WesleyDSilva/Landing_Page01_Front-End)
+git clone [https://github.com/WesleyDSilva/Landing_Page01_Front-End](https://github.com/WesleyDSilva/Landing_Page01_Front-End)
